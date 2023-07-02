@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "198957984748",
+    "firebase_url": "https://crud-practice-af8ea-default-rtdb.firebaseio.com",
+    "project_id": "crud-practice-af8ea",
+    "storage_bucket": "crud-practice-af8ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198957984748:android:c7190dd53c5d6d5ffe2ec9",
+        "android_client_info": {
+          "package_name": "com.example.crud_operation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198957984748-4vnbge7ort77cf5ndug98hgjn359i2f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA-CeFBkDi0iSidoXqC6TEzdhHouYFK4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198957984748-4vnbge7ort77cf5ndug98hgjn359i2f0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "198957984748-jp9br5fq5o565ibjugig2bean9tibnkv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.crudoperation"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198957984748:android:a10e08a874fba8b3fe2ec9",
+        "android_client_info": {
+          "package_name": "com.example.crud_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198957984748-4vnbge7ort77cf5ndug98hgjn359i2f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA-CeFBkDi0iSidoXqC6TEzdhHouYFK4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198957984748-4vnbge7ort77cf5ndug98hgjn359i2f0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "198957984748-jp9br5fq5o565ibjugig2bean9tibnkv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.crudoperation"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
